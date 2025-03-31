@@ -2,17 +2,13 @@
 
 ###
 
-<p align="left">Meu chamo Isaque Albertini Silva Oliveira, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC MINAS . Sou um grande entusiasta na área da tecnologia e busco evoluir a cada dia.</p>
+<p align="left">Me chamo Isaque Albertini Silva Oliveira, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC MINAS . Sou um grande entusiasta na área da tecnologia e busco evoluir a cada dia.</p>
 
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/isaque-albertini-silva-oliveira-767907301" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="albertiniisaque@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
