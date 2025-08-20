@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Isaque Albertini Silva Oliveira, tenho 20 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC MINAS . Sou um grande entusiasta na área da tecnologia e busco evoluir a cada dia.</p>
+<p align="left">Me chamo Isaque Albertini Silva Oliveira, tenho 21 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC MINAS . Sou um grande entusiasta na área da tecnologia e busco evoluir a cada dia.</p>
 <hr>
 
 ###
